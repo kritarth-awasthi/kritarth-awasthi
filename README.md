@@ -1,11 +1,11 @@
 # Kritarth Awasthi
 ### Machine Learning Engineer | Edge AI | On-Device Inference
 
-B.Tech CSE @ BIT Mesra, Jaipur (2027) · Building AI that runs on the hardware itself.
+B.Tech CSE @ BIT Mesra, Jaipur (2027) · Building AI that runs on the hardware itself
 
 ---
 
-### 🔬 What I'm building
+### 🔬 What I am building
 
 **A.E.G.I.S.** — Articulated Electronic Gesture Inference System,
 A wearable edge-AI controller running a float32 CNN on ESP32 with FreeRTOS dual-core isolation.

@@ -1,7 +1,7 @@
 # Kritarth Awasthi
 ### Machine Learning Engineer | Edge AI | On-Device Inference
 
-B.Tech CSE @ BIT Mesra, Jaipur (2027) · Building AI that runs on the hardware itself
+Building AI that runs on the hardware itself
 
 ---
 
@@ -11,7 +11,7 @@ B.Tech CSE @ BIT Mesra, Jaipur (2027) · Building AI that runs on the hardware i
 A wearable edge-AI controller running a float32 CNN on ESP32 with FreeRTOS dual-core isolation.
 Core 0 → MPU6050 I2C polling at 100Hz | Core 1 → float32 inference.
 ESP-NOW transmission <2ms → ESP32-C3 USB HID receiver → 14ms total latency.
-98.2% validation accuracy · Driverless on any OS · Active development
+98.2% validation accuracy · Driverless on any OS · Active development.
 
 ---
 

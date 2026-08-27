@@ -1,8 +1,6 @@
 # Kritarth Awasthi
-### Machine Learning Engineer | Edge AI | On-Device Inference
 
-Building AI that runs on the hardware itself
-
+### AI/ML Engineer | NLP & Computer Vision 
 ---
 
 ### 🔬 What I am building

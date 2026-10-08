@@ -1,12 +1,12 @@
 # Kritarth Awasthi
 
-### AI/ML Engineer | NLP & Computer Vision 
+### AI/ML Engineer 
 ---
 
 ### 🔬 What I am building
 
 **A.E.G.I.S.** — Articulated Electronic Gesture Inference System,
-A wearable edge-AI controller running a float32 CNN on ESP32 with FreeRTOS dual-core isolation.
+A wearable edge-AI controller running a float32 CNN on ESP32 with FreeRTOS dual core isolation.
 Core 0 → MPU6050 I2C polling at 100Hz | Core 1 → float32 inference.
 ESP-NOW transmission <2ms → ESP32-C3 USB HID receiver → 14ms total latency.
 98.2% validation accuracy · Driverless on any OS · Active development.
